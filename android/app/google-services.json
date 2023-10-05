@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293964587306",
+    "project_id": "notification-58b1f",
+    "storage_bucket": "notification-58b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293964587306:android:b3b25f061731acd20bbe53",
+        "android_client_info": {
+          "package_name": "com.sendnotification.piacasso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v7uCdALT-X781_th4hQuU65FsN0vpbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
